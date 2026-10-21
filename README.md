@@ -1,7 +1,27 @@
-## Hi there 👋
+## Hi, I'm Ahmed
 
-<!--
-**ElmaghrabyAhmed/ElmaghrabyAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GNSS Engineer & PhD Researcher (Dissertation successfully defended) | Precise Time and Frequency Transfer Specialist
+
+I am a GNSS Expert with research background in **GNSS-based frequency trasnfer** and **error modeling** for high-precision PNT (Positioning, Navigation and Timing) algorithms. My work focused on characterizing the impact of errors on GNSS links exploited for frequency transfer. 
+
+---
+
+### 🛰️ Core Expertise & Domain Knowledge
+
+
+### 🛠️ Technical Stack
+
+
+---
+
+### 📂 Featured GNSS Repositories
+
+
+---
+
+### 📈 Find Me Outside of GitHub
+* 💼 Connect with me on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/elmaghrabyahmed/))
+* 📧 Reach out via Email: `elmaghraby.ahmed@gmx.de`
 
 Here are some ideas to get you started:
 
