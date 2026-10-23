@@ -2,7 +2,7 @@
 
 ### GNSS Engineer & PhD Researcher (Dissertation successfully defended) | Precise Time and Frequency Transfer Specialist
 
-I am a GNSS Expert with research background in **GNSS-based frequency trasnfer** and **error modeling** for high-precision PNT (Positioning, Navigation and Timing) algorithms. My work focused on characterizing the impact of errors on GNSS links exploited for frequency transfer. 
+I am a GNSS Expert with research background in **GNSS-based frequency trasnfer** and **error modeling** for high-precision PNT (Positioning, Navigation and Timing) algorithms. My work focused on characterizing the impact of errors on GNSS-based links that are utilized for frequency transfer and time synchrnoization. 
 
 ---
 
