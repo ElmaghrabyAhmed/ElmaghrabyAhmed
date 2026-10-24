@@ -31,12 +31,14 @@ A Python/Tkinter tool that combines GNSS mission planning with data analysis:
 
 - Unit-tested parsers, continuous integration on GitHub Actions, documented methods and data sources
 
-- <-- e.g. the ground tracks at PTBB:
+---
+ e.g. the ground tracks at PTBB:
 ![GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss-planner/blob/main/docs/img/gnss_planner_observations.png)
--->
-- <-- e.g. the satellite visibility at PTBB:
-![GNSS Planner](https://raw.githubusercontent.com/ElmaghrabyAhmed/gnss_planner/docs/img/satellite_visibility_ptbb.png)
--->
+---
+--- 
+e.g. the satellite visibility at PTBB:
+![GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss-planner/blob/main/docs/img/satellite_visibility_ptbb.png)
+---
 
 `Python` `NumPy` `Matplotlib` `scikit-learn` `Tkinter` `pytest` `GitHub Actions`
 
