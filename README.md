@@ -21,7 +21,7 @@ Frequency stability and accuracy evaluation
 
 ### 📂 Featured GNSS Repositories
 
-[GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss_planner)
+[GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss-planner)
  
 A Python/Tkinter tool that combines GNSS mission planning with data analysis:
  
