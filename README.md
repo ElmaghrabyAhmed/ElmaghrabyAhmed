@@ -34,7 +34,7 @@ A Python/Tkinter tool that combines GNSS mission planning with data analysis:
 ---
  e.g. the ground tracks at PTBB:
 ![GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss-planner/blob/main/docs/img/gnss_planner_observations.png)
----
+
 --- 
 e.g. the satellite visibility at PTBB:
 ![GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss-planner/blob/main/docs/img/satellite_visibility_ptbb.png)
