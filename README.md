@@ -38,7 +38,7 @@ A Python/Tkinter tool that combines GNSS mission planning with data analysis:
 --- 
 e.g. the satellite visibility at PTBB:
 ![GNSS Planner](https://github.com/ElmaghrabyAhmed/gnss-planner/blob/main/docs/img/satellite_visibility_ptbb.png)
----
+
 
 `Python` `NumPy` `Matplotlib` `scikit-learn` `Tkinter` `pytest` `GitHub Actions`
 
