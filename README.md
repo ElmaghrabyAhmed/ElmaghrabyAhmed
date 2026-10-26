@@ -43,7 +43,7 @@ e.g. the satellite visibility at PTBB:
 `Python` `NumPy` `Matplotlib` `scikit-learn` `Tkinter` `pytest` `GitHub Actions`
 
 ---
-[GNSS Positioning Engine][https://github.com/ElmaghrabyAhmed/gnss_repository]
+[GNSS Positioning Engine](https://github.com/ElmaghrabyAhmed/gnss_repository)
 
 A high-performance C++ tool implemented to compute the receiver position from raw GNSS data. The application processes standard RINEX observation and navigation files, applying advanced atmospheric corrections to deliver precise coordinate estimations via two distinct positioning algorithms.
 
