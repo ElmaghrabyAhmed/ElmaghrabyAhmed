@@ -63,27 +63,6 @@ Ensure you have the following installed on your system:
 * A C++ compiler supporting **C++17** or higher (GCC, Clang, or MSVC)
 * **CMake** (version 3.10 or higher)
 
-## Getting Started
-
-### 1. Cloning the Repository
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Building the Project
-```bash
-mkdir build && cd build
-cmake ..
-make
-```
-
-### 3. Running the Tool
-Execute the binary by passing your RINEX files as arguments:
-```bash
-./gnss_estimator --obs path/to/file.obs --nav path/to/file.nav --mode ekf
-```
-
 ## Input Data Requirements
 * **Observation File:** Multi-epoch RINEX file containing pseudorange observables (e.g., C1C, C1W).
 * **Navigation File:** Broadcast ephemeris file providing satellite orbit parameters and Klobuchar ionospheric coefficients.
