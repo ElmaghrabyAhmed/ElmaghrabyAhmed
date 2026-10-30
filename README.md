@@ -78,7 +78,7 @@ Ensure you have the following installed on your system:
 ---
 
 ### 📈 Find Me Outside of GitHub
-* 💼 Connect with me on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/elmaghrabyahmed/))
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/elmaghrabyahmed/)
 * 📧 Reach out via Email: `elmaghraby.ahmed@gmx.de`
 
 
